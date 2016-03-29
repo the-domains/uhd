@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[uhd]]></title>
-        <description><![CDATA[uhd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[UHD News and more]]></title>
+        <description><![CDATA[UHD News and more]]></description>
+        <link>https://thegrid.ai/uhd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:09:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 17:13:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uhd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New "PlayStation 4K" will reportedly support HDR & wide color gamut too - FlatpanelsHD]]></title>
+            <description><![CDATA[<article><h1>New "PlayStation 4K" will reportedly support HDR & wide color gamut too - FlatpanelsHD</h1><p>Two weeks ago, rumors emerged about a new PlayStation with 4K support. Digital Foundry has chimed in to say that it is real and that the console will be built on AMD's next-generation graphics chip bringing with it support for 4K, HDR, and wide color gamut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caee0ab27ed6c09adb38451ddafddcbd074928a2.jpg"></article>]]></description>
+            <link>http://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1459150420</link>
+            <guid isPermaLink="false">67b386c0-e3b8-48d3-92b5-fdb93241bbdb</guid>
+            <pubDate>Tue, 29 Mar 2016 17:13:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UltraHD via Satellite to Exceed 785 Channels Over Next Decade]]></title>
             <description><![CDATA[<article><h1>UltraHD via Satellite to Exceed 785 Channels Over Next Decade</h1><p>CAMBRIDGE, MA--(Marketwired - Mar 29, 2016) - Releasing tomorrow, NSR's UltraHD via Satellite, 3rd Edition report identifies 2016 as a key inflection point for the rollout of UltraHD via satellite. NSR forecasts over 785 UltraHD channels by 2025, and satellite capacity required to carry bandwidth intensive UltraHD channels will drive...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16be6606f38fdc702cd8d8cf2616db854ab43a3d.gif"></article>]]></description>
