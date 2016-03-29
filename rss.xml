@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[uhd]]></title>
+        <description><![CDATA[uhd]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 17:09:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UltraHD via Satellite to Exceed 785 Channels Over Next Decade]]></title>
+            <description><![CDATA[<article><h1>UltraHD via Satellite to Exceed 785 Channels Over Next Decade</h1><p>CAMBRIDGE, MA--(Marketwired - Mar 29, 2016) - Releasing tomorrow, NSR's UltraHD via Satellite, 3rd Edition report identifies 2016 as a key inflection point for the rollout of UltraHD via satellite. NSR forecasts over 785 UltraHD channels by 2025, and satellite capacity required to carry bandwidth intensive UltraHD channels will drive...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16be6606f38fdc702cd8d8cf2616db854ab43a3d.gif"></article>]]></description>
+            <link>http://www.marketwired.com/press-release/ultrahd-via-satellite-to-exceed-785-channels-over-next-decade-2109514.htm</link>
+            <guid isPermaLink="false">c3d08ae0-89c6-4285-9807-24686d342938</guid>
+            <pubDate>Tue, 29 Mar 2016 17:09:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
