@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Read more on https://domains.madeby.hm'
-datePublished: '2016-03-30T10:01:53.027Z'
-dateModified: '2016-03-30T10:00:53.191Z'
+datePublished: '2016-03-30T10:02:27.145Z'
+dateModified: '2016-03-30T10:02:04.200Z'
 title: This domain is for sale
 author: []
+sourcePath: _posts/2016-03-30-this-domain-is-for-sale.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-this-domain-is-for-sale.md
-published: true
 url: this-domain-is-for-sale/index.html
-_type: Article
+_type: WebPage
 
 ---
 # This domain is for sale
