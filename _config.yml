@@ -1,7 +1,7 @@
 name: UHD.io
 favicon: null
 layout_spectrum: 0.750168778700754
-typography_spectrum: 0.6452243842650205
+typography_spectrum: 0
 title: 4K Ultra HD (UHD) News and more
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0
-  lightness: 0.28875668137334287
-  saturation: 0.625
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
