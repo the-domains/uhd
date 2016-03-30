@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.amazon.co.uk/gp/product/B01D64VSZM/tag=uhd4k-21'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - blu-ray
   - superman
@@ -17,8 +17,8 @@ keywords:
   - superhero
   - read
 description: 'Buy Batman v Superman: Dawn of Justice (4K Ultra HD Blu-ray) at Amazon UK. Free delivery on eligible orders.'
-datePublished: '2016-03-30T10:19:52.126Z'
-dateModified: '2016-03-30T10:19:51.033Z'
+datePublished: '2016-03-30T11:05:18.984Z'
+dateModified: '2016-03-30T11:05:17.368Z'
 author: []
 related: []
 app_links: []
