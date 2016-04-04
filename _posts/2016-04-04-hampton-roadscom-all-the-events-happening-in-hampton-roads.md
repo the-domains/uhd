@@ -6,23 +6,23 @@ isBasedOnUrl: 'http://hamptonroads.com/blog/768934/2016/03/trials-and-triumphs-n
 inLanguage: null
 starred: false
 keywords: []
-description: 'Entertainment, events, restaurants, music, festivals and movies for Hampton Roads, Virginia - Norfolk, Virginia Beach, Chesapeake, Portsmouth, Suffolk, Newport News, Hampton, Williamsburg, and Outer Banks - from The Virginian-Pilot newspaper.'
-datePublished: '2016-04-04T08:39:20.183Z'
-dateModified: '2016-04-04T08:39:04.593Z'
+description: LOOK OUT – here comes a new advance in the ultimate home theater experience.
+datePublished: '2016-04-04T11:45:31.350Z'
+dateModified: '2016-04-04T11:45:30.886Z'
 author: []
 related: []
 app_links: []
-title: 'Hampton Roads.com: All the events happening in Hampton Roads under one site.'
+title: The trials and triumphs of a new 4K / HDR Home Theater set-up
+sourcePath: _posts/2016-04-04-hampton-roadscom-all-the-events-happening-in-hampton-roads.md
+published: true
 authors: []
 publisher:
   name: HamptonRoads.com
   domain: hamptonroads.com
   url: 'http://hamptonroads.com'
   favicon: 'http://hamptonroads.com/sites/all/themes/hamptonroadsv2/favicon.ico'
-sourcePath: _posts/2016-04-04-hampton-roadscom-all-the-events-happening-in-hampton-roads.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The trials and triumphs of a new 4K / HDR Home Theater set-up</h1><p>Entertainment, events, restaurants, music, festivals and movies for Hampton Roads, Virginia - Norfolk, Virginia Beach, Chesapeake, Portsmouth, Suffolk, Newport News, Hampton, Williamsburg, and Outer Banks - from The Virginian-Pilot newspaper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f63d14ede8037b4a32825767013229fb5f2fd5.png" /></article>
+<article style=""><h1>The trials and triumphs of a new 4K / HDR Home Theater set-up</h1><p>LOOK OUT – here comes a new advance in the ultimate home theater experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84f63d14ede8037b4a32825767013229fb5f2fd5.png" /></article>
