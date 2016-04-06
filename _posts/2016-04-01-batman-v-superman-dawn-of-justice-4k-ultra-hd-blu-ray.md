@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.amazon.co.uk/gp/product/B01D64VSZM/tag=madeby-20'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - blu-ray
   - superman
@@ -17,20 +17,20 @@ keywords:
   - amazon
   - pre-order
 description: 'Amazon.co.uk - Buy Batman v Superman: Dawn of Justice (4K Ultra HD Blu-ray) at a low price; free delivery on qualified orders. See reviews & details on a wide selection of Blu-ray & DVDs, both new & used.'
-datePublished: '2016-04-01T08:25:48.094Z'
-dateModified: '2016-04-01T08:25:37.983Z'
+datePublished: '2016-04-06T07:26:38.105Z'
+dateModified: '2016-04-06T07:26:33.160Z'
 author: []
 related: []
 app_links: []
 title: 'Batman v Superman: Dawn of Justice (4K Ultra HD Blu-ray)'
+sourcePath: _posts/2016-04-01-batman-v-superman-dawn-of-justice-4k-ultra-hd-blu-ray.md
+published: true
 authors: []
 publisher:
   name: Amazon
   domain: www.amazon.co.uk
   url: 'http://www.amazon.com'
   favicon: 'http://www.amazon.co.uk/favicon.ico'
-sourcePath: _posts/2016-04-01-batman-v-superman-dawn-of-justice-4k-ultra-hd-blu-ray.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
