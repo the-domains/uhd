@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 09:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 09:39:52 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hands On First Look: VIZIO Launches New P-Series with Dolby Vision & SmartCast]]></title>
+            <description><![CDATA[<article><h1>Hands On First Look: VIZIO Launches New P-Series with Dolby Vision & SmartCast</h1><p>Some exciting news on the display front, once again proving 2016 to be a very good year for considering a 4K Ultra High Definition upgrade. VIZIO has not only launched a major overhaul to its well-reviewed P-Series 4K UHD displays, but is releasing this new iteration as the first product to run on a new wireless, entertainment ecosystem dubbed SmartCast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9487230ad242b1dd5c1f5be60d54cc0dd232f729.jpg"></article>]]></description>
+            <link>http://www.highdefdigest.com/news/show/Vizio/UHD/4K/hdr/wide-color-gamut/Dolby_Vision/smartcast/google-cast/VUDU/hands-on-first-look-vizio-launches-new-pseries-with-dolby-vision-smartcast/30791</link>
+            <guid isPermaLink="false">d1ae0fd4-c83d-4bef-89aa-e6894e349399</guid>
+            <pubDate>Sat, 09 Apr 2016 09:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://www.lg.com/uk/lgoled/images/signature/signature4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://hamptonroads.com/blog/768934/2016/03/trials-and-triumphs-new-4k-hdr-home-theater-setup</link>
             <guid isPermaLink="false">06563939-c1ee-4aa2-9bb9-d914b2d4bfb4</guid>
             <pubDate>Mon, 04 Apr 2016 11:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung UBD-K8500]]></title>
-            <description><![CDATA[<article><h1>Samsung UBD-K8500</h1><p>It's taken years, but ultra high-definition ( UHD, or 4K) video finally has a standardized physical media. Ultra HD Blu-ray is a new disc format that supports not only 4K, but high dynamic range (HDR) video and advanced surround sound formats as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e7e9b16814ba1f0def12ab8239f91e5de213546.jpg"></article>]]></description>
-            <link>http://www.pcmag.com/review/343315/samsung-ubd-k8500</link>
-            <guid isPermaLink="false">b7672843-039b-4d2f-8217-e6480f8c9fbc</guid>
-            <pubDate>Mon, 04 Apr 2016 08:34:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
