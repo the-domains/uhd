@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 09:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 09:39:51 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://www.lg.com/uk/lgoled/images/signature/signature4.jpg">]]></description>
+            <link>http://uhd.io/0249de1e-b56c-4ce0-8132-3a13c48a95a5/index.html</link>
+            <guid isPermaLink="false">0249de1e-b56c-4ce0-8132-3a13c48a95a5</guid>
+            <pubDate>Sat, 09 Apr 2016 09:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Texas Chainsaw Massacre (4K Ultra HD-Blu-ray + 2 Blu-ray-Discs + Digital Copy)]]></title>
             <description><![CDATA[<article><h1>Texas Chainsaw Massacre (4K Ultra HD-Blu-ray + 2 Blu-ray-Discs + Digital Copy)</h1><p>Amazon.de - Kaufen Sie Texas Chainsaw Massacre (4K Ultra HD-Blu-ray + 2 Blu-ray-Discs + Digital Copy) günstig ein. Qualifizierte Bestellungen werden kostenlos geliefert. Sie finden Rezensionen und Details zu einer vielseitigen Blu-ray- und DVD-Auswahl - neu und gebraucht.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9dd3e336fe7b7150049f7cc09a61e9a72bbcba7.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Samsung UBD-K8500</h1><p>It's taken years, but ultra high-definition ( UHD, or 4K) video finally has a standardized physical media. Ultra HD Blu-ray is a new disc format that supports not only 4K, but high dynamic range (HDR) video and advanced surround sound formats as well.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e7e9b16814ba1f0def12ab8239f91e5de213546.jpg"></article>]]></description>
             <link>http://www.pcmag.com/review/343315/samsung-ubd-k8500</link>
             <guid isPermaLink="false">b7672843-039b-4d2f-8217-e6480f8c9fbc</guid>
-            <pubDate>Mon, 04 Apr 2016 08:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony Pictures to Debut Ultra 4K and HDR Streaming Service on April 4]]></title>
-            <description><![CDATA[<article><h1>Sony Pictures to Debut Ultra 4K and HDR Streaming Service on April 4</h1><p>Sony Pictures Home Entertainment's new 4K Ultra HD movie streaming service, Ultra, will debut April 4 on select Sony 4K Ultra HD TVs with Android in the U.S. Plans for the service were first announced at CES in January.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a76fdd90ccb571aa67039496604c474b4a27162.jpg"></article>]]></description>
-            <link>http://www.hollywoodreporter.com/behind-screen/sony-pictures-debuts-ultra-4k-878465</link>
-            <guid isPermaLink="false">a0c181e0-5098-4319-963b-3230c80ec34e</guid>
             <pubDate>Mon, 04 Apr 2016 08:34:25 GMT</pubDate>
         </item>
     </channel>
