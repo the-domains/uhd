@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 08:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 08:14:49 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[4K Blu-ray vs Blu-ray Reveals HDR Is Too Dim for Daytime]]></title>
+            <description><![CDATA[<article><h1>4K Blu-ray vs Blu-ray Reveals HDR Is Too Dim for Daytime</h1><p>We've stumbled upon a truly ironic problem for the highly anticipated HDR (high dynamic range) format after watching a few Ultra HD Blu-ray movies on several 2016 4K HDR TVs we've reviewed recently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c285a01088a2a090e7888d062eba11293993e19.jpg"></article>]]></description>
+            <link>http://www.hdtvtest.co.uk/news/4k-vs-201604104279.htm</link>
+            <guid isPermaLink="false">fa19aef2-1fe7-4f7d-993f-870e2715d987</guid>
+            <pubDate>Tue, 12 Apr 2016 08:13:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix is now streaming in HDR / Dolby Vision - FlatpanelsHD]]></title>
             <description><![CDATA[<article><h1>Netflix is now streaming in HDR / Dolby Vision - FlatpanelsHD</h1><p>Netflix has quietly started rolling out HDR streaming. The company supports both HDR10 and Dolby Vision. Marco Polo is the first TV series to be available in HDR and Daredevil will follow soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db424f0a0728c1aa9616eb6bb3df26cfa8da35b5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uhd.io/0249de1e-b56c-4ce0-8132-3a13c48a95a5/index.html</link>
             <guid isPermaLink="false">0249de1e-b56c-4ce0-8132-3a13c48a95a5</guid>
             <pubDate>Sat, 09 Apr 2016 09:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to watch 4K video online and on TV]]></title>
-            <description><![CDATA[<article><h1>How to watch 4K video online and on TV</h1><p>4K Ultra HD is here. So what about 4K content? From Amazon to Netflix, streaming to Blu-ray, we round-up your 4K TV and movie options</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f5b5ccedd65a045f9f2637b1cd7b312e028b2cc.jpg"></article>]]></description>
-            <link>http://www.whathifi.com/advice/how-to-watch-4k-video-online-and-tv</link>
-            <guid isPermaLink="false">dc5a7650-35d6-4272-b0ad-362eccee1f27</guid>
-            <pubDate>Wed, 06 Apr 2016 07:27:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
