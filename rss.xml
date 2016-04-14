@@ -4,15 +4,8 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 08:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 08:42:41 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[LG launch new G6, E6, C6 and B6 OLED TVs with Dolby Vision]]></title>
-            <description><![CDATA[<article><h1>LG launch new G6, E6, C6 and B6 OLED TVs with Dolby Vision</h1><p>LG announced the UK launch of their new 2016 line-up of Ultra HD 4K OLED TVs and promised an improved level of picture quality this year, along with support for Dolby Vision and the latest version of WebOS. LG were keen to champion both the development of their brand and their leadership where OLED is concerned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec09d6ea9cc1f664ea442f7e4fc2c65d1e2fba1e.jpg"></article>]]></description>
-            <link>https://www.avforums.com/article/lg-launch-new-g6-e6-c6-and-b6-oled-tvs-with-dolby-vision.12512</link>
-            <guid isPermaLink="false">4b40b702-4d8c-4a83-b5bc-99a6eccf0c75</guid>
-            <pubDate>Thu, 14 Apr 2016 08:42:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Gods Of Egypt [Blu-ray]]]></title>
             <description><![CDATA[<article><h1>Gods Of Egypt [Blu-ray]</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e38b5af07396169ed0e23f7c5800fcf2bd69a070.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.flatpanelshd.com/article.php?subaction=showfull&amp;id=1460114926</link>
             <guid isPermaLink="false">c7c4f2ab-5d4c-4658-a36e-e2b86d6bc72b</guid>
             <pubDate>Sat, 09 Apr 2016 09:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ultra HD Blu-ray version of "The Texas Chainsaw Massacre" first movie to feature both Auro 3D and Dolby Atmos - Myce.com]]></title>
+            <description><![CDATA[<article><h1>Ultra HD Blu-ray version of "The Texas Chainsaw Massacre" first movie to feature both Auro 3D and Dolby Atmos - Myce.com</h1><p>The Ultra HD Blu-ray version of the movie "The Texas Chainsaw Massacre" will be the first to feature both competing audio formats, Dolby Atmos and Auro 3D. The announcement was made on the Facebook page of German movie company Turbine Media Group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44e4a36421e3563d427868f1c029b3ddb7a4069e.jpg"></article>]]></description>
+            <link>http://www.myce.com/news/ultra-hd-blu-ray-version-texas-chainsaw-massacre-first-movie-feature-auro-3d-dolby-atmos-79068/</link>
+            <guid isPermaLink="false">3584ee0d-805a-43ae-85cb-ec246874f04d</guid>
+            <pubDate>Sat, 09 Apr 2016 09:49:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
