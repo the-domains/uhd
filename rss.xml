@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 08:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 08:31:46 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Samsung 4K SUHD TVs Roll Out As Company Plays 4K Blu-ray Catch-Up]]></title>
+            <description><![CDATA[<article><h1>Samsung 4K SUHD TVs Roll Out As Company Plays 4K Blu-ray Catch-Up</h1><p>Samsung has begun rolling out an expanded lineup of 16 SUHD-technology 4K Ultra HD TVs with a mix of flat and curved screens, all meeting or exceeding the minimum performance criteria established by the Ultra HD Alliance (UHDA).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc07ae990704e4a75b096e5bc0ec7b2adb67fdb5.jpg"></article>]]></description>
+            <link>http://www.twice.com/news/tv/samsung-4k-suhd-tvs-roll-out-company-plays-4k-blu-ray-catch/61119</link>
+            <guid isPermaLink="false">72fa7fa8-f191-4008-bc3c-2fbdaf7df2e8</guid>
+            <pubDate>Fri, 15 Apr 2016 08:31:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix begins HDR video rollout - BBC News]]></title>
             <description><![CDATA[<article><h1>Netflix begins HDR video rollout - BBC News</h1><p>Netflix has confirmed it has begun its rollout of high dynamic range content on its TV and film streaming service. HDR videos display millions more shades of colour and extra levels of brightness than normal ones, allowing images to look more realistic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a6acf38bcffa63ef9c6bbce613f2df5d066fe9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.flatpanelshd.com/article.php?subaction=showfull&amp;id=1458557676</link>
             <guid isPermaLink="false">0514aa0a-36ea-40a9-a970-aff3cdbb6ade</guid>
             <pubDate>Tue, 12 Apr 2016 08:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4K Blu-ray vs Blu-ray Reveals HDR Is Too Dim for Daytime]]></title>
-            <description><![CDATA[<article><h1>4K Blu-ray vs Blu-ray Reveals HDR Is Too Dim for Daytime</h1><p>We've stumbled upon a truly ironic problem for the highly anticipated HDR (high dynamic range) format after watching a few Ultra HD Blu-ray movies on several 2016 4K HDR TVs we've reviewed recently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c285a01088a2a090e7888d062eba11293993e19.jpg"></article>]]></description>
-            <link>http://www.hdtvtest.co.uk/news/4k-vs-201604104279.htm</link>
-            <guid isPermaLink="false">fa19aef2-1fe7-4f7d-993f-870e2715d987</guid>
-            <pubDate>Tue, 12 Apr 2016 08:13:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
