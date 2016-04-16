@@ -23,10 +23,10 @@ keywords:
 description: 'LOS ANGELES, April 12, 2016 - The UHD Alliance (UHDA), the inter-industry group charged with fostering the Ultra HD ecosystem and promoting the benefits of Ultra HD entertainment technology, today expanded the range of products that can bear the ULTRA HD PREMIUM logo with announcement of certification and logo licensing for Ultra HD Blu-ray Players.'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.uhdalliance.org/uhd-alliance-press-release-april-12-2016/#more-1370'
+isBasedOnUrl: 'http://www.uhdalliance.org/uhd-alliance-press-release-april-12-2016/'
 title: 'UHD ALLIANCE PRESS RELEASE April 12, 2016'
-datePublished: '2016-04-16T08:14:15.748Z'
-dateModified: '2016-04-16T08:09:43.033Z'
+datePublished: '2016-04-16T08:19:29.703Z'
+dateModified: '2016-04-16T08:16:43.615Z'
 sourcePath: _posts/2016-04-16-uhd-alliance-press-release-april-12-2016.md
 published: true
 inFeed: true
