@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 13:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 18:56:31 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NAB: First Reactions To Ang Lee's 'Billy Lynn' 120 Frame Rate Footage: 'Awesome,' 'Unbelievable']]></title>
+            <description><![CDATA[<article><h1>NAB: First Reactions To Ang Lee's 'Billy Lynn' 120 Frame Rate Footage: 'Awesome,' 'Unbelievable'</h1><p>An overflow crowd of filmmakers and tech execs at the National Association of Broadcasters Show in Las Vegas enthusiastically applauded an 11-minute clip from director Ang Lee's upcoming Billy Lynn's Long Halftime Walk when it screened today for the first time in public in 4K resolution, 3D and a whopping 120 frames-per-second, per eye - an unprecedented production format for a Hollywood feature-length film.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3060efa423230a36ec41f997898fe01eb90847b9.jpg"></article>]]></description>
+            <link>http://www.hollywoodreporter.com/behind-screen/nab-ang-lees-billy-lynn-884425</link>
+            <guid isPermaLink="false">80bae1cc-a2c9-4e9d-9389-982cc3f2f9eb</guid>
+            <pubDate>Sun, 17 Apr 2016 18:56:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ultra HD Blu-ray: All you need to know]]></title>
             <description><![CDATA[<article><h1>Ultra HD Blu-ray: All you need to know</h1><p>4K TVs are fast-becoming household standards. And with the likes of Netflix and Amazon Prime Instant Video offering more and more Ultra HD content, there's every reason to upgrade to the latest resolution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb684a7df41ef3ad9bf8e3dcfb8a1db5fc1d1149.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.avforums.com/article/lg-launch-new-g6-e6-c6-and-b6-oled-tvs-with-dolby-vision.12512</link>
             <guid isPermaLink="false">4b40b702-4d8c-4a83-b5bc-99a6eccf0c75</guid>
             <pubDate>Thu, 14 Apr 2016 08:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gods Of Egypt [Blu-ray]]]></title>
-            <description><![CDATA[<article><h1>Gods Of Egypt [Blu-ray]</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e38b5af07396169ed0e23f7c5800fcf2bd69a070.jpg"></article>]]></description>
-            <link>http://www.amazon.com/exec/obidos/ASIN/B01DUHHJVM/madeby-20</link>
-            <guid isPermaLink="false">6dd32346-bc68-476c-a191-c3f9874d6d7c</guid>
-            <pubDate>Thu, 14 Apr 2016 08:42:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
