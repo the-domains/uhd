@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 07:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 17:23:49 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hisense 65XT910 review]]></title>
+            <description><![CDATA[<article><h1>Hisense 65XT910 review</h1><p>Remind you of anyone? Looking at Hisense today, we can't help but feel we've seen this all play out before. Hark back ten or so years, and imagine companies such as Samsung and LG in Hisense's shoes: a reputation, in Europe at least, for creating cheap, entry-level televisions, whose prices initially challenged the industry's status quo and then let the brands grow to become the market leaders they are today.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb299ec268dfc085fd94000de68bea62def056a.jpg"></article>]]></description>
+            <link>http://www.whathifi.com/hisense/65xt910/review</link>
+            <guid isPermaLink="false">6e5cbb00-1e56-45ee-be7c-95636da80311</guid>
+            <pubDate>Tue, 19 Apr 2016 17:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Panasonic DMP-UB900 4K Ultra HD Blu-ray Player Review]]></title>
             <description><![CDATA[<article><h1>Panasonic DMP-UB900 4K Ultra HD Blu-ray Player Review</h1><p>Panasonic's DMP-UB900 4K Ultra HD Blu-ray player finally arrives but does it live up to all the hype?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf66142c839deeb8a9215c359209e90af73dc5cd.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.twice.com/news/tv/samsung-4k-suhd-tvs-roll-out-company-plays-4k-blu-ray-catch/61119</link>
             <guid isPermaLink="false">72fa7fa8-f191-4008-bc3c-2fbdaf7df2e8</guid>
             <pubDate>Fri, 15 Apr 2016 08:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix begins HDR video rollout - BBC News]]></title>
-            <description><![CDATA[<article><h1>Netflix begins HDR video rollout - BBC News</h1><p>Netflix has confirmed it has begun its rollout of high dynamic range content on its TV and film streaming service. HDR videos display millions more shades of colour and extra levels of brightness than normal ones, allowing images to look more realistic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a6acf38bcffa63ef9c6bbce613f2df5d066fe9.jpg"></article>]]></description>
-            <link>http://www.bbc.com/news/technology-36033205</link>
-            <guid isPermaLink="false">57c13c77-2520-40e0-92ff-11faeff2155a</guid>
-            <pubDate>Thu, 14 Apr 2016 08:46:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
