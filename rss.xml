@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 17:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 06:31:57 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stunning Aurora Borealis from Space in Ultra-High Definition (4K)]]></title>
+            <description><![CDATA[<article><h1>Stunning Aurora Borealis from Space in Ultra-High Definition (4K)</h1><p>NASA Television's newest offering, NASA TV UHD, brings ultra-high definition video to a new level with the kind of imagery only the world's leader in space exploration could provide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/640a328b5c54a1b10bad49bc6f3a6709f7d14ed1.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PBJAR3-UvSQ</link>
+            <guid isPermaLink="false">ed77184e-7271-475d-a715-7db64317552d</guid>
+            <pubDate>Wed, 20 Apr 2016 06:31:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Philips 65PUS8601 review]]></title>
             <description><![CDATA[<article><h1>Philips 65PUS8601 review</h1><p>Reviewed on It is the clearest compromise of modern television, but is it possible to create a set svelte enough to contend with the market's current chic, without forfeiting a decent sound? With its 8601 range, Philips believes itself to be in possession of the answer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb299ec268dfc085fd94000de68bea62def056a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.uhdalliance.org/uhd-alliance-press-release-april-12-2016/</link>
             <guid isPermaLink="false">a9a41163-5292-4b9f-9273-69c34075797f</guid>
             <pubDate>Sat, 16 Apr 2016 08:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung signs up for Dolby AC-4 audio, TVs due 2017 - Inside CI]]></title>
-            <description><![CDATA[<article><h1>Samsung signs up for Dolby AC-4 audio, TVs due 2017 - Inside CI</h1><p>"We are thrilled that an industry leader in television manufacturing will support Dolby AC-4, and believe that Samsung's commitment demonstrates that this next-gen audio technology is the best solution for the industry," says Giles Baker, Senior VP, Broadcast Business Group, Dolby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/151ede2047950098897c696905ffcf5a5e8a8423.jpg"></article>]]></description>
-            <link>http://www.insideci.co.uk/news/samsung-signs-up-for-dolby-ac-4-audio-tvs-due-2017.aspx</link>
-            <guid isPermaLink="false">e3584dcb-b6bb-4374-8912-f7dec889e5da</guid>
-            <pubDate>Sat, 16 Apr 2016 08:13:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
