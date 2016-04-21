@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 06:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 20:38:27 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panasonic DX900/DX902 4K UHD HDR TV REVIEW]]></title>
+            <description><![CDATA[<article><h1>Panasonic DX900/DX902 4K UHD HDR TV REVIEW</h1><p>The DX900 Series is Panasonic's top 4K Ultra HD HDR TV. It's Ultra HD Premium and 4K THX certified and features some really clever technology. In this video ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/303f0bebd93094ab28ba93d8dc9c421d4107c035.jpg"></article>]]></description>
+            <link>https://youtu.be/SievBBp9DoQ</link>
+            <guid isPermaLink="false">5747bf25-345f-400e-af9f-599b30dac653</guid>
+            <pubDate>Thu, 21 Apr 2016 20:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Next Generation of TV]]></title>
             <description><![CDATA[<article><h1>The Next Generation of TV</h1><p>At Netflix, pushing the boundaries on video quality is one of our passions. We're particularly excited about High Dynamic Range - or HDR. While 4k offers more pixels, HDR offers better pixels that have greater depth, and on HDR screens you get brighter highlights, more detail in dark scenes, and a wider color range that more closely matches the real world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b69cb025e5280da9a21fd9f4dfdb2ad7915b02e6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.whathifi.com/hisense/65xt910/review</link>
             <guid isPermaLink="false">6e5cbb00-1e56-45ee-be7c-95636da80311</guid>
             <pubDate>Tue, 19 Apr 2016 17:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Panasonic DMP-UB900 4K Ultra HD Blu-ray Player Review]]></title>
-            <description><![CDATA[<article><h1>Panasonic DMP-UB900 4K Ultra HD Blu-ray Player Review</h1><p>Panasonic's DMP-UB900 4K Ultra HD Blu-ray player finally arrives but does it live up to all the hype?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf66142c839deeb8a9215c359209e90af73dc5cd.jpg"></article>]]></description>
-            <link>https://www.avforums.com/review/panasonic-dmp-ub900-4k-ultra-hd-blu-ray-player-review.12538</link>
-            <guid isPermaLink="false">6f4d1a24-9400-429f-96a7-d9b2c3eb9f39</guid>
-            <pubDate>Tue, 19 Apr 2016 07:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
