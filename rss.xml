@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 20:09:00 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What You Need to Know About Ultra HD Blu-ray]]></title>
+            <description><![CDATA[<article><h1>What You Need to Know About Ultra HD Blu-ray</h1><p>You're going to see a new type of Blu-ray disc in stores this year. Ultra HD Blu-rays have already started creeping into Amazon, Best Buy, and anywhere else you can buy physical media. Ultra HD Blu-ray discs are able to store ultra high-definition ( UHD, or 4K) video in addition to advanced surround sound formats like Dolby Atmos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e991fd24a28c9af58c2f6a3a62c9bba00a9ebe9b.jpg"></article>]]></description>
+            <link>http://www.pcmag.com/article2/0,2817,2499370,00.asp</link>
+            <guid isPermaLink="false">41c3af42-658a-4c15-a631-54b1f2baf403</guid>
+            <pubDate>Mon, 25 Apr 2016 20:08:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix Tests 6K Production Waters With 'House of Cards' Season 3]]></title>
             <description><![CDATA[<article><h1>Netflix Tests 6K Production Waters With 'House of Cards' Season 3</h1><p>Netflix's House of Cards season three took a leap into 6K resolution production. The streaming service has been among the most aggressive OTT platforms in pushing a move to "Ultra HD," andseason two of the D.C.-set thriller was its first series to be released in 4K (four times the resolution of HD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8187078c3ae9b40d27becc05b30ab08b1058fb04.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://variety.com/2016/film/news/jason-bourne-universal-4k-ultra-hd-releases-1201756140/</link>
             <guid isPermaLink="false">917ea23b-5593-478e-a541-699add4458cb</guid>
             <pubDate>Wed, 20 Apr 2016 11:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stunning Aurora Borealis from Space in Ultra-High Definition (4K)]]></title>
-            <description><![CDATA[<article><h1>Stunning Aurora Borealis from Space in Ultra-High Definition (4K)</h1><p>NASA Television's newest offering, NASA TV UHD, brings ultra-high definition video to a new level with the kind of imagery only the world's leader in space exploration could provide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/640a328b5c54a1b10bad49bc6f3a6709f7d14ed1.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=PBJAR3-UvSQ</link>
-            <guid isPermaLink="false">ed77184e-7271-475d-a715-7db64317552d</guid>
-            <pubDate>Wed, 20 Apr 2016 06:31:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
