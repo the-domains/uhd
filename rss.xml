@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 07:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 08:55:43 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HDR TV: What is it? How can you get it? | What Hi-Fi?]]></title>
+            <description><![CDATA[<article><h1>HDR TV: What is it? How can you get it? | What Hi-Fi?</h1><p>HDR TV technology is the next big thing in TV picture performance. But what is High Dynamic Range, what's so good about it and how can you get it? Here's what you need to know.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb299ec268dfc085fd94000de68bea62def056a.jpg"></article>]]></description>
+            <link>http://www.whathifi.com/advice/hdr-tv-what-it-how-can-you-get-it</link>
+            <guid isPermaLink="false">70c2ddc4-3642-4587-a05f-fd9e4c4ac0d5</guid>
+            <pubDate>Fri, 29 Apr 2016 08:54:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LG OLED55E6 4K HDR OLED TV Review]]></title>
             <description><![CDATA[<article><h1>LG OLED55E6 4K HDR OLED TV Review</h1><p>The sweet spot within LG's 2016 OLED television lineup is undoubtedly the E6 series: it's less expensive than the flagship "Signature" G6 series, yet offers a flat-panel design and 3D capability over the step-down C6 and B6 ranges for only £500 extra (at least in the UK).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/086fd330fe5eefc765fbba227ed666ddd01c2100.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/04/vizio-4k-hdr-tvs-cheap/</link>
             <guid isPermaLink="false">4defe3ed-4781-456f-9fba-0f4ab37a9352</guid>
             <pubDate>Thu, 21 Apr 2016 06:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Makes Jessica Jones Look Even Better]]></title>
-            <description><![CDATA[<article><h1>Netflix Makes Jessica Jones Look Even Better</h1><p>High Dynamic Range picture quality is being added to all Netflix's Marvel shows - and a few others besides.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5c05802fec04292a3db1ce40b8a8812936c4d4d.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/johnarcher/2016/04/19/making-jessica-jones-look-even-better-netflix-announces-huge-expansion-of-hdr-content/#fb121c166938</link>
-            <guid isPermaLink="false">1186e2da-90a1-4df7-a8ca-8e3e8db4878f</guid>
-            <pubDate>Thu, 21 Apr 2016 06:30:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
