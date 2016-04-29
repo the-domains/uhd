@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 08:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 08:55:45 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HDR Support Comes To 2016 Mid And Entry AVR Lines | HD Guru]]></title>
+            <description><![CDATA[<article><h1>HDR Support Comes To 2016 Mid And Entry AVR Lines | HD Guru</h1><p>High performance networked AV receivers compatible with the latest 4K Ultra and high dynamic range (HDR) video signals and Dolby Atmos and DTS:X objected-based audio formats were unveiled this month in the more mainstream 2016 product lines from Denon, Marantz, Onkyo and Pioneer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51f34b729de9cd2451ec70574b0a9d3b3551d06b.jpg"></article>]]></description>
+            <link>http://hdguru.com/hdr-support-comes-to-2016-mid-and-entry-avr-lines/</link>
+            <guid isPermaLink="false">1c272afc-b076-4e8b-9d8c-32a72a90da81</guid>
+            <pubDate>Fri, 29 Apr 2016 08:54:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HDR TV: What is it? How can you get it? | What Hi-Fi?]]></title>
             <description><![CDATA[<article><h1>HDR TV: What is it? How can you get it? | What Hi-Fi?</h1><p>HDR TV technology is the next big thing in TV picture performance. But what is High Dynamic Range, what's so good about it and how can you get it? Here's what you need to know.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb299ec268dfc085fd94000de68bea62def056a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uhd.io/the-next-generation-of-tv/index.html</link>
             <guid isPermaLink="false">12916973-1205-42b6-aade-4cd52b921fec</guid>
             <pubDate>Thu, 21 Apr 2016 06:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vizio's New 4K HDR TVs Start At $850 and Come With Android Tablet Remotes]]></title>
-            <description><![CDATA[<article><h1>Vizio's New 4K HDR TVs Start At $850 and Come With Android Tablet Remotes</h1><p>About a month ago, Vizio announced its new high-end P-series TVs. Even for the historically budget-minded brand, those new TVs represented crazy bang for the buck: 4K panels with HDR capabilities, full-array backlighting with local dimming to boost contrast, unique tablet-style remotes and Chromecasting features, and prices starting at $1,000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47188195e49c1ee9c4b51163aa9271101b098878.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/vizio-4k-hdr-tvs-cheap/</link>
-            <guid isPermaLink="false">4defe3ed-4781-456f-9fba-0f4ab37a9352</guid>
-            <pubDate>Thu, 21 Apr 2016 06:30:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
