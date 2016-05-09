@@ -4,8 +4,22 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 07:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 07:28:02 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sources: The Upgraded PlayStation 4 is Codenamed NEO, Contains Upgraded CPU, GPU, RAM]]></title>
+            <description><![CDATA[<article><h1>Sources: The Upgraded PlayStation 4 is Codenamed NEO, Contains Upgraded CPU, GPU, RAM</h1><p>Earlier this year, rumors began to fly that Sony would release an upgraded version of the PlayStation 4, a console often called the PS4.5 or the PS4K by fans and press. Today, multiple sources have confirmed for us details of the project, which is internally referred to as the NEO.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2235a1d5ebadb1db1a9cf6c0ae6f9b7a4970fc35.jpg"></article>]]></description>
+            <link>http://www.giantbomb.com/articles/sources-the-upgraded-playstation-4-is-codenamed-ne/1100-5437/</link>
+            <guid isPermaLink="false">27f1eabb-7b36-43e8-b744-3e189474e3eb</guid>
+            <pubDate>Mon, 09 May 2016 07:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will HDR Lead To Another New HDMI Connector? | HD Guru]]></title>
+            <description><![CDATA[<article><h1>Will HDR Lead To Another New HDMI Connector? | HD Guru</h1><p>High dynamic range (HDR) televisions are now in their second year, and most 2016 higher-end displays and supporting 4K Ultra HD source devices are equipped with at least one of the latest HDR-metadata-supporting HDMI 2.0a connectors Meanwhile, 4K content mastered with HDR metadata is ramping up through streaming services and Ultra HD Blu-ray discs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10dcfdb89ffbdbd4f730444e743f0e6880b4ffcb.jpg"></article>]]></description>
+            <link>http://hdguru.com/will-hdr-lead-to-another-new-hdmi-connector/#more-18704</link>
+            <guid isPermaLink="false">5713bddd-064b-42ce-9451-c221d2a24729</guid>
+            <pubDate>Mon, 09 May 2016 07:27:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hands on: Panasonic DMP-UB900 Ultra HD Blu-ray player]]></title>
             <description><![CDATA[<article><h1>Hands on: Panasonic DMP-UB900 Ultra HD Blu-ray player</h1><p>Panasonic's Ultra HD Blu-ray player finally lets you make the most of those top-shelf Ultra HD televisions. Photo: Adam Turner Australia's first Ultra HD Blu-ray player delivers the goods but you'll want a top-shelf television and a great movie to really do it justice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adae230699056b94f379145bd2beaa505923fc64.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.pcmag.com/article2/0,2817,2499370,00.asp</link>
             <guid isPermaLink="false">41c3af42-658a-4c15-a631-54b1f2baf403</guid>
             <pubDate>Mon, 25 Apr 2016 20:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Tests 6K Production Waters With 'House of Cards' Season 3]]></title>
-            <description><![CDATA[<article><h1>Netflix Tests 6K Production Waters With 'House of Cards' Season 3</h1><p>Netflix's House of Cards season three took a leap into 6K resolution production. The streaming service has been among the most aggressive OTT platforms in pushing a move to "Ultra HD," andseason two of the D.C.-set thriller was its first series to be released in 4K (four times the resolution of HD).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8187078c3ae9b40d27becc05b30ab08b1058fb04.png"></article>]]></description>
-            <link>http://www.hollywoodreporter.com/behind-screen/netflix-tests-6k-production-waters-779131</link>
-            <guid isPermaLink="false">cde95822-543c-4471-9f3a-4c8a94fbcbd2</guid>
-            <pubDate>Mon, 25 Apr 2016 13:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Panasonic TX-65DX902 4K HDR TV review - Inside CI]]></title>
-            <description><![CDATA[<article><h1>Panasonic TX-65DX902 4K HDR TV review - Inside CI</h1><p>The TX-65DX902 is the first Ultra HD Premium HDR screen in Panasonic's 4K Pro fleet. It's able to produce peak highlights in excess of 1000 nits. Also known as the DX900 Series, the high-end set comes in 58- and 65-inch sizes; here we audition the latter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8f557549e0a7fc9f932790732025d2ec29c462a.jpg"></article>]]></description>
-            <link>http://www.insideci.co.uk/reviews/panasonic-tx-65dx902-4k-hdr-tv-review.aspx</link>
-            <guid isPermaLink="false">96b38b00-9377-481a-af36-af02b6673e51</guid>
-            <pubDate>Mon, 25 Apr 2016 13:06:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
