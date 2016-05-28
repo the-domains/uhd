@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 14:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 14:32:37 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LG releases cheaper OLED 4K TVs]]></title>
+            <description><![CDATA[<article><h1>LG releases cheaper OLED 4K TVs</h1><p>LG has released two lower cost OLED 4K TV models to go along with its high-end G6 and E6. The flat-panel B6 and curved C6 are the latest additions to LG's pretty great lineup of OLED TVs. Both sets will come in 55-inch and 65-inch models, run WebOS 3.0, and support both Dolby Vision and Ultra HD Premium HDR formats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd02d078af8824e385d76994b872a2a517168144.jpg"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/24/11759744/lg-releases-cheaper-oled-4k-tvs</link>
+            <guid isPermaLink="false">7b369fbd-c6bf-43b7-bee2-31f16fac2609</guid>
+            <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Panasonic TX-65DX750 review]]></title>
             <description><![CDATA[<article><h1>Panasonic TX-65DX750 review</h1><p>A few years ago, Panasonic was the boss of TVs. Its plasma tech swatted off the competition like flies, for it was mighty. But then plasma production stopped and Panasonic focussed on LCD TVs, losing its mojo in the process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b226fec8a7f3d1bd143e93f5d98cb0495edc9513.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.smh.com.au/technology/gadgets-on-the-go/hands-on-panasonic-dmpub900-ultra-hd-bluray-player-20160501-gojoe9.html</link>
             <guid isPermaLink="false">3839c427-9abb-4b52-bf6c-b22ca4c33434</guid>
             <pubDate>Mon, 09 May 2016 07:27:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hisense announces £2500 75in 4K HDR TV | What Hi-Fi?]]></title>
-            <description><![CDATA[<article><h1>Hisense announces £2500 75in 4K HDR TV | What Hi-Fi?</h1><p>Hisense has announced the 75M7900 4K HDR TV for £2500. The company claims it can deliver a premium performance despite the low price. It can support 4K sources including streaming and physical.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcb299ec268dfc085fd94000de68bea62def056a.jpg"></article>]]></description>
-            <link>http://www.whathifi.com/news/hisense-announces-ps2500-75in-4k-hdr-tv</link>
-            <guid isPermaLink="false">9448db0a-a3af-4007-ab0a-512dde4791dd</guid>
-            <pubDate>Sun, 01 May 2016 08:57:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
