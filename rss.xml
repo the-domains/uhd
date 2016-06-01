@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 14:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 16:59:36 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quality is king: The first 4K Blu-ray player will make you scoff at streaming]]></title>
+            <description><![CDATA[<article><h1>Quality is king: The first 4K Blu-ray player will make you scoff at streaming</h1><p>If you want the very best picture quality available for your 4K Ultra HD TV - even if it's not a bleeding-edge set with HDR - then you want an Ultra HD Blu-ray player. Right now, Samsung's UBD-K8500 is, at least for Americans, the only game in town.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e3a831bdc7623f242e6b15b1ec25e66acef23d2.jpg"></article>]]></description>
+            <link>http://www.digitaltrends.com/blu-ray-and-dvd-player-reviews/samsung-ubd-k8500-ultra-hd-4k-review/#:nkZ_RKiAtYuOfA</link>
+            <guid isPermaLink="false">ee28f01a-ea09-492b-9bbd-643161db8a3c</guid>
+            <pubDate>Wed, 01 Jun 2016 16:58:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sharp Rolls Out Its First 4K TVs For 2016]]></title>
             <description><![CDATA[<article><h1>Sharp Rolls Out Its First 4K TVs For 2016</h1><p>The first five Sharp-brand 4K Ultra HD TVs marketed by Hisense USA rolled out with Open HDR support in 43- to 65-inch sizes at suggested retail prices ranging from $529 to $1,299. The Aquos N7000U-series smart TVs are among 13 4K TVs unveiled at 2016 CES under the Sharp brand, all supporting the Open HDR standard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcda0a7f78e28c237efb86cc60546d8767dcedb4.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.areadvd.de/tests/special-das-derzeit-beste-bild-panasonic-oled-tx-65czw954-ultra-hd-bd-player-dmp-ub900-im-ultra-hd-bd-mit-hdr-check/</link>
             <guid isPermaLink="false">3bdc1ff5-1af3-4a75-a22a-494b3b164b21</guid>
             <pubDate>Sun, 15 May 2016 18:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung Shows Static vs. Dynamic Metadata HDR Demo at NAB 2016]]></title>
-            <description><![CDATA[<article><h1>Samsung Shows Static vs. Dynamic Metadata HDR Demo at NAB 2016</h1><p>Samsung has proposed a dynamic metadata solution that is being considered by SMPTE. This was the first public demo of its benefits</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aadb1f7c6c4ad02319032e22e1108704ebec543b.jpg"></article>]]></description>
-            <link>https://vimeo.com/164619204</link>
-            <guid isPermaLink="false">9642cb2f-df8e-4340-a0ff-4d6a34479bc0</guid>
-            <pubDate>Wed, 11 May 2016 12:04:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
