@@ -4,22 +4,8 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 14:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 14:53:51 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sony Confirms More Powerful PS4 in Development, But It Won't Be at E3]]></title>
-            <description><![CDATA[<article><h1>Sony Confirms More Powerful PS4 in Development, But It Won't Be at E3</h1><p>A more powerful version of the PlayStation 4--referred to previously as everything from the PS4.5 to PS4K to PS4 Neo--is indeed in the works, Sony has confirmed. However, it won't be showcased at the upcoming E3, as was widely expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe1e364947ac9ed76bcd82fde1b5ecfd4adab2c.jpg"></article>]]></description>
-            <link>http://www.gamespot.com/articles/sony-confirms-more-powerful-ps4-in-development-but/1100-6440644/</link>
-            <guid isPermaLink="false">19200c40-8c0a-4477-8612-856377e3e3a6</guid>
-            <pubDate>Sun, 12 Jun 2016 14:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LG E6 review - FlatpanelsHD]]></title>
-            <description><![CDATA[<article><h1>LG E6 review - FlatpanelsHD</h1><p>LG has released a new generation of 4K OLED displays. Last year, we reviewed LG EG9600 and Panasonic CZ950 , both of which were based on the last generation of OLED. This year, LG's OLEDs should offer better HDR (high dynamic range) and a wider color gamut almost fully compliant with DCI-P3 space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4a4935a121db9ab7f16bd5786e427e619ca853.jpg"></article>]]></description>
-            <link>http://www.flatpanelshd.com/review.php?subaction=showfull&amp;id=1465365585</link>
-            <guid isPermaLink="false">f5d0ee6b-c4dd-432f-a512-303d9eb0c274</guid>
-            <pubDate>Sun, 12 Jun 2016 14:53:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Samsung UE65KS9500 hands-on review: We try Samsung's flagship TV]]></title>
             <description><![CDATA[<article><h1>Samsung UE65KS9500 hands-on review: We try Samsung's flagship TV</h1><p>We take an opening look at Samsung's latest flagship TV Usually, Samsung kicks off its annual range refresh by sending out its new flagship models for review first. This year, however, we've had to wait months from the launch of the company's first 2016 TV to get our eyes on its flagship KS9500 TVs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9673e9771d4f68fea20236157c6c38938691d81.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Report: Samsung Plotting QLED Display Strategy | HD Guru</h1><p>A report from Korea IT News site ET News this week said that Samsung Electronics is working on a technology that will apply quantum dot technology, currently used in its higher-end SUHD LED TVs, to an OLED-like technology, called QLED.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08d9e1ae1e7f33edc58829083e4c44096c69610e.jpg"></article>]]></description>
             <link>http://hdguru.com/report-samsung-plotting-qled-display-strategy/</link>
             <guid isPermaLink="false">f36223f1-193a-47f2-bfb5-0e067eef8048</guid>
+            <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LG's 2016 OLED TVs are more affordable, but they're still going to cost you]]></title>
+            <description><![CDATA[<article><h1>LG's 2016 OLED TVs are more affordable, but they're still going to cost you</h1><p>LG has finally unveiled pricing and availability for its entire line of 2016 OLED TVs, and although the new display tech is becoming a little more affordable each year, you'll still need to dig deep to get one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41f12f8941d0b410229e3352890a609028745e2f.jpg"></article>]]></description>
+            <link>https://www.yahoo.com/tech/lg-2016-oled-tvs-more-163803179.html</link>
+            <guid isPermaLink="false">e0d4103f-3292-4200-b203-dd6fd1052715</guid>
+            <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LG releases cheaper OLED 4K TVs]]></title>
+            <description><![CDATA[<article><h1>LG releases cheaper OLED 4K TVs</h1><p>LG has released two lower cost OLED 4K TV models to go along with its high-end G6 and E6. The flat-panel B6 and curved C6 are the latest additions to LG's pretty great lineup of OLED TVs. Both sets will come in 55-inch and 65-inch models, run WebOS 3.0, and support both Dolby Vision and Ultra HD Premium HDR formats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd02d078af8824e385d76994b872a2a517168144.jpg"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/24/11759744/lg-releases-cheaper-oled-4k-tvs</link>
+            <guid isPermaLink="false">7b369fbd-c6bf-43b7-bee2-31f16fac2609</guid>
             <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
         </item>
     </channel>
