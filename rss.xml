@@ -4,20 +4,13 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 08:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 08:26:28 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Xbox One S]]></title>
             <description><![CDATA[<article><h1>Xbox One S</h1><p>Introducing the new Xbox One S. Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range technology. Stream 4K video on Netflix and Amazon Video, and watch UHD Blu-ray™ movies in stunning 4K Ultra HD.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6617e66ef8a993bd8ec59b4a9e5140d974948cb4.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=XuTwtOo88r8</link>
             <guid isPermaLink="false">1332601e-3b5f-4cd6-9290-b3381cbe44a7</guid>
-            <pubDate>Tue, 14 Jun 2016 08:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xbox - Project Scorpio]]></title>
-            <description><![CDATA[<article><h1>Xbox - Project Scorpio</h1><p>The most powerful console ever. Holiday 2017.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a1ddd5e3ad15a97175f47bc922df2a494ce3d3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=F1dRgWpGePs</link>
-            <guid isPermaLink="false">087829ef-ece3-4f77-b823-edc33ad60a65</guid>
             <pubDate>Tue, 14 Jun 2016 08:26:23 GMT</pubDate>
         </item>
         <item>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>LG Bringing OLED Displays To More 4K TVs</h1><p>More LG 4K Ultra HD OLED TVs hit store shelves with the shipment of four models that join three models shipped earlier this year. One more 4K OLED TV is planned for the second half. All are certified by the UHD Alliance as meeting Ultra HD Premium performance minimums for wide color gamut, high dynamic range and other attributes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a00c125e997557480fcfe3de9436f513d54c60f0.jpg"></article>]]></description>
             <link>http://www.twice.com/news/tv/lg-bringing-oled-displays-more-4k-tvs/61640</link>
             <guid isPermaLink="false">077eaeb1-4f4a-47cd-b851-36e31d44f059</guid>
+            <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philips 65PUS8601 4K TV Review]]></title>
+            <description><![CDATA[<article><h1>Philips 65PUS8601 4K TV Review</h1><p>It's been a challenging few years for the TP Vision/ Philips entity since their amalgamation, at least as far as the UK market is concerned. First, British buyers were dismayed to find that top-end Philips TVs would be launched elsewhere in Europe but not in the United Kingdom.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9e40c74a7f24475861845b087f9352d6975bc2b.jpg"></article>]]></description>
+            <link>http://www.hdtvtest.co.uk/news/65pus8601-201605234294.htm</link>
+            <guid isPermaLink="false">f16f8f75-bc47-4762-b0f9-5c3cfe535f0c</guid>
             <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
         </item>
     </channel>
