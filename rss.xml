@@ -4,22 +4,8 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:47:40 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Microsoft announces the Xbox One S, its smallest Xbox yet]]></title>
-            <description><![CDATA[<article><h1>Microsoft announces the Xbox One S, its smallest Xbox yet</h1><p>The Xbox One just got a lot smaller. Announced today at E3 in Los Angeles ( and leaked a day earlier), the new Xbox One S takes the original Xbox One, shrinks it down, and gives it a fresh coat of white paint (Microsoft calls it "robot white").</p><img src="https://cdn0.vox-cdn.com/thumbor/qevstRKEYs-qgd87ywq8zTq6Y6I=/0x157:1497x999/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49840657/vpavic_070616_1091_0038.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/6/13/11911184/microsoft-xbox-one-s-announced-price-specs-e3-2016</link>
-            <guid isPermaLink="false">5ac62492-bd04-4afa-ad61-d255469eb386</guid>
-            <pubDate>Wed, 15 Jun 2016 11:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft reveals Project Scorpio, the Xbox One's powerful, 4K-ready successor powered by AMD]]></title>
-            <description><![CDATA[<article><h1>Microsoft reveals Project Scorpio, the Xbox One's powerful, 4K-ready successor powered by AMD</h1><p>"No boundaries" is the tagline Microsoft keeps touting for Project Scorpio, a hardware refresh/upgrade for the Xbox One announced during its E3 press conference (and fulfilling six months or so of rumors and leaks). But don't expect to hear much more about it until next year-the console's not coming until Holiday 2017, and we didn't even get a good look at it yet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1e51683c9dbd32b3abf445dad8a9534/noop.png?input=http%3A%2F%2Fimages.techhive.com%2Fimages%2Farticle%2F2016%2F06%2Fxbox-scorpio-100665974-large.png"></article>]]></description>
-            <link>http://www.pcworld.com/article/3082660/consumer-electronics/microsoft-reveals-project-scorpio-the-xbox-ones-powerful-4k-ready-successor.html</link>
-            <guid isPermaLink="false">04379f39-3c8f-4b88-8d35-a3cf44584c78</guid>
-            <pubDate>Wed, 15 Jun 2016 11:47:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Panasonic</p>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.flatpanelshd.com/review.php?subaction=showfull&amp;id=1464241293</link>
             <guid isPermaLink="false">ee3db379-1557-47ed-9571-1eb99c6b1382</guid>
             <pubDate>Sun, 05 Jun 2016 20:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quality is king: The first 4K Blu-ray player will make you scoff at streaming]]></title>
+            <description><![CDATA[<article><h1>Quality is king: The first 4K Blu-ray player will make you scoff at streaming</h1><p>If you want the very best picture quality available for your 4K Ultra HD TV - even if it's not a bleeding-edge set with HDR - then you want an Ultra HD Blu-ray player. Right now, Samsung's UBD-K8500 is, at least for Americans, the only game in town.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e3a831bdc7623f242e6b15b1ec25e66acef23d2.jpg"></article>]]></description>
+            <link>http://www.digitaltrends.com/blu-ray-and-dvd-player-reviews/samsung-ubd-k8500-ultra-hd-4k-review/#:nkZ_RKiAtYuOfA</link>
+            <guid isPermaLink="false">ee28f01a-ea09-492b-9bbd-643161db8a3c</guid>
+            <pubDate>Wed, 01 Jun 2016 16:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharp Rolls Out Its First 4K TVs For 2016]]></title>
+            <description><![CDATA[<article><h1>Sharp Rolls Out Its First 4K TVs For 2016</h1><p>The first five Sharp-brand 4K Ultra HD TVs marketed by Hisense USA rolled out with Open HDR support in 43- to 65-inch sizes at suggested retail prices ranging from $529 to $1,299. The Aquos N7000U-series smart TVs are among 13 4K TVs unveiled at 2016 CES under the Sharp brand, all supporting the Open HDR standard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcda0a7f78e28c237efb86cc60546d8767dcedb4.jpg"></article>]]></description>
+            <link>http://www.twice.com/news/tv/sharp-rolls-out-its-first-4k-tvs-2016/61638</link>
+            <guid isPermaLink="false">276e7af0-4eba-4dce-8524-6ffc8054e198</guid>
+            <pubDate>Sat, 28 May 2016 14:32:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
