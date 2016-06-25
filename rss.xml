@@ -4,13 +4,20 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 14:13:13 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GeForce GTX 980 Ti round-up: 12 graphics cards review]]></title>
             <description><![CDATA[<article><h1>GeForce GTX 980 Ti round-up: 12 graphics cards review</h1><p>If you want to game in Ultra HD, you will pretty much be forced to use a high-end graphics card, such as the GeForce GTX 980 Ti from Nvidia. Once you've decided to invest in one, you will find that there is quite a lot of choice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8183ab288fae51db4014cd16cbb72115/noop.jpg?input=http%3A%2F%2Fcontent.hwigroup.net%2Fimages%2Fproducts_larges%2F306178%2F18%2Fnvidia-geforce-gtx-980-ti.jpg"></article>]]></description>
             <link>http://uk.hardware.info/reviews/6671/geforce-gtx-980-ti-round-up-12-graphics-cards-review</link>
             <guid isPermaLink="false">944aaf4d-5bff-41ab-bbdc-b47a49173158</guid>
+            <pubDate>Sat, 25 Jun 2016 14:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LG's 2016 OLED TVs are more affordable, but they're still going to cost you]]></title>
+            <description><![CDATA[<article><h1>LG's 2016 OLED TVs are more affordable, but they're still going to cost you</h1><p>LG has finally unveiled pricing and availability for its entire line of 2016 OLED TVs, and although the new display tech is becoming a little more affordable each year, you'll still need to dig deep to get one.</p><img src="http://icdn3.digitaltrends.com/image/2016-lg-signature-oled-g6_-1200x630-c.jpg"></article>]]></description>
+            <link>http://www.digitaltrends.com/home-theater/lg-2016-oled-tv-line-price-availability-features/</link>
+            <guid isPermaLink="false">fe19c55d-c85e-4b7b-8e02-80f3621ff652</guid>
             <pubDate>Sat, 25 Jun 2016 14:12:43 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>LG E6 review - FlatpanelsHD</h1><p>LG has released a new generation of 4K OLED displays. Last year, we reviewed LG EG9600 and Panasonic CZ950 , both of which were based on the last generation of OLED. This year, LG's OLEDs should offer better HDR (high dynamic range) and a wider color gamut almost fully compliant with DCI-P3 space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc4a4935a121db9ab7f16bd5786e427e619ca853.jpg"></article>]]></description>
             <link>http://www.flatpanelshd.com/review.php?subaction=showfull&amp;id=1465365585</link>
             <guid isPermaLink="false">f5d0ee6b-c4dd-432f-a512-303d9eb0c274</guid>
-            <pubDate>Sun, 12 Jun 2016 14:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsung UE65KS9500 hands-on review: We try Samsung's flagship TV]]></title>
-            <description><![CDATA[<article><h1>Samsung UE65KS9500 hands-on review: We try Samsung's flagship TV</h1><p>We take an opening look at Samsung's latest flagship TV Usually, Samsung kicks off its annual range refresh by sending out its new flagship models for review first. This year, however, we've had to wait months from the launch of the company's first 2016 TV to get our eyes on its flagship KS9500 TVs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9673e9771d4f68fea20236157c6c38938691d81.jpg"></article>]]></description>
-            <link>http://www.trustedreviews.com/samsung-ue65ks9500-review</link>
-            <guid isPermaLink="false">608430b4-da3c-4140-87b8-1b4878f413d9</guid>
             <pubDate>Sun, 12 Jun 2016 14:53:46 GMT</pubDate>
         </item>
     </channel>
