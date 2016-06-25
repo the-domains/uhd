@@ -38,8 +38,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.gizmodo.com.au/2016/06/lg-uh950t-super-uhd-tv-australian-review/'
 title: 'LG UH950T Super UHD TV: Australian Review'
-datePublished: '2016-06-25T14:12:43.758Z'
-dateModified: '2016-06-25T14:11:39.337Z'
+datePublished: '2016-06-25T14:12:44.120Z'
+dateModified: '2016-06-25T14:09:38.692Z'
 starred: false
 sourcePath: _posts/2016-06-25-lg-uh950t-super-uhd-tv-australian-review.md
 inFeed: true
