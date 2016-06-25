@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 14:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 14:13:14 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LG Signature OLED 4K Ultra HD TV Wins Value Electronics 2016 TV Shootout]]></title>
+            <description><![CDATA[<article><h1>LG Signature OLED 4K Ultra HD TV Wins Value Electronics 2016 TV Shootout</h1><p>Posted Thu Jun 23, 2016 at 04:15 PM PDT by Steven Cohen The new "King of TV" has been named. LG's 65-inch G6 OLED has been crowned the winner of the Value Electronics 2016 TV Shootout at the CE Week tradeshow in New York City.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/828281e11bfadfe94f3b46f81437045c/croprotate.jpg?cropheight=347&cropwidth=568&degrees=0&input=http%3A%2F%2Fwww.highdefdigest.com%2Fuploads%2Fjb%2Flgoled20161.jpg&x=48&y=5"></article>]]></description>
+            <link>http://www.highdefdigest.com/news/show/value-electronics/tv-shootout/4K/Ultra_HD/hdr/OLED/LCD/LG/Sony/Samsung/ce-week/lg-signature-oled-4k-ultra-hd-tv-wins-value-electronics-2016-tv-shootout/33006</link>
+            <guid isPermaLink="false">ecc5744c-6a43-4902-99f1-ded0ccc565f7</guid>
+            <pubDate>Sat, 25 Jun 2016 14:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LG SIGNATURE 4K OLED TV Crowned 'King Of TV' At CE Week 2016]]></title>
             <description><![CDATA[<article><h1>LG SIGNATURE 4K OLED TV Crowned 'King Of TV' At CE Week 2016</h1><p>June 23, 2016 /PRNewswire/ -- LG Electronics' SIGNATURE 4K OLED TV was crowned "2016 King of TV" in the 13 th Annual Value Electronics TV Shootout™ in a competition among four contending flagship 4K Ultra HD TV models from LG and other leading brands during CE Week in .</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/31724cc73e4749d27102721a31d64a50/noop?input=https%3A%2F%2Fphotos.prnewswire.com%2Fprnvar%2F20160623%2F383057%3Fmax%3D650"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=F1dRgWpGePs</link>
             <guid isPermaLink="false">087829ef-ece3-4f77-b823-edc33ad60a65</guid>
             <pubDate>Tue, 14 Jun 2016 08:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony Confirms More Powerful PS4 in Development, But It Won't Be at E3]]></title>
-            <description><![CDATA[<article><h1>Sony Confirms More Powerful PS4 in Development, But It Won't Be at E3</h1><p>A more powerful version of the PlayStation 4--referred to previously as everything from the PS4.5 to PS4K to PS4 Neo--is indeed in the works, Sony has confirmed. However, it won't be showcased at the upcoming E3, as was widely expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe1e364947ac9ed76bcd82fde1b5ecfd4adab2c.jpg"></article>]]></description>
-            <link>http://www.gamespot.com/articles/sony-confirms-more-powerful-ps4-in-development-but/1100-6440644/</link>
-            <guid isPermaLink="false">19200c40-8c0a-4477-8612-856377e3e3a6</guid>
-            <pubDate>Sun, 12 Jun 2016 14:53:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
