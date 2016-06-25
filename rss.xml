@@ -4,8 +4,15 @@
         <description><![CDATA[4K Ultra HD (UHD) News and more]]></description>
         <link>http://uhd.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 12:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 14:12:47 GMT</lastBuildDate>
         <atom:link href="http://uhd.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GeForce GTX 980 Ti round-up: 12 graphics cards review]]></title>
+            <description><![CDATA[<article><h1>GeForce GTX 980 Ti round-up: 12 graphics cards review</h1><p>If you want to game in Ultra HD, you will pretty much be forced to use a high-end graphics card, such as the GeForce GTX 980 Ti from Nvidia. Once you've decided to invest in one, you will find that there is quite a lot of choice.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8183ab288fae51db4014cd16cbb72115/noop.jpg?input=http%3A%2F%2Fcontent.hwigroup.net%2Fimages%2Fproducts_larges%2F306178%2F18%2Fnvidia-geforce-gtx-980-ti.jpg"></article>]]></description>
+            <link>http://uk.hardware.info/reviews/6671/geforce-gtx-980-ti-round-up-12-graphics-cards-review</link>
+            <guid isPermaLink="false">944aaf4d-5bff-41ab-bbdc-b47a49173158</guid>
+            <pubDate>Sat, 25 Jun 2016 14:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Phil Spencer discusses the new Xbox One S]]></title>
             <description><![CDATA[<article><h1>Phil Spencer discusses the new Xbox One S</h1><p>The Xbox One S was announced at our Xbox At E3 2016 briefing and I had the opportunity to sit down with Phil Spencer and chat about it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bfead147605523b61f51da724273c52a/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FQtFUTiwPcQs%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.trustedreviews.com/samsung-ue65ks9500-review</link>
             <guid isPermaLink="false">608430b4-da3c-4140-87b8-1b4878f413d9</guid>
             <pubDate>Sun, 12 Jun 2016 14:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry working towards adding dynamic metadata to HDR10 standard - FlatpanelsHD]]></title>
-            <description><![CDATA[<article><h1>Industry working towards adding dynamic metadata to HDR10 standard - FlatpanelsHD</h1><p>At NAB 2016, Samsung made the first public demonstration of static vs. dynamic metadata for HDR10, the open HDR format. Dynamic metadata will reportedly be added to the HDR10 standard later this year in an effort to improve picture quality, according to a report from Display Daily .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd9f849f54dba50cd5d1e8d240ec9bee61c85ebc.jpg"></article>]]></description>
-            <link>http://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1463138030#5ozYf0Rm13i9J07L.99</link>
-            <guid isPermaLink="false">733f4c76-e2e2-4b58-a70c-482f8147f558</guid>
-            <pubDate>Sun, 05 Jun 2016 20:17:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
